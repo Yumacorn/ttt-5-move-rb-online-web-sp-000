@@ -12,6 +12,7 @@ def input_to_index(input)
 end
 
 def move(board, position, player = "X")
+  irb
   board[player]
 
 end
